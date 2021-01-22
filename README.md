@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-		<img src="https://i.imgur.com/IpazWUo.jpg">
+		<img src="https://i.imgur.com/3IkSu2w.jpg">
 </div>
+<br>
+<b>Hello there!</b>
 
-Hello there
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
