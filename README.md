@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 		<img src="https://i.imgur.com/RQeGv5o.jpg">
 </div>
 <br>
-<b>Hello there!</b>
-
+<b>Hello there</b>
+General Kenobi
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
