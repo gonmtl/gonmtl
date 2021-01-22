@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-		<img src="https://i.imgur.com/jIHCdeE.jpg">
+		<img src="https://i.imgur.com/IpazWUo.jpg">
 </div>
